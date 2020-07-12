@@ -1,7 +1,0 @@
-- name: install gcloud
-  hosts: localhost
-  connection: local
-  become: true
-
-  roles:
-  - google.cloud.gcloud

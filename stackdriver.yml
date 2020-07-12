@@ -1,0 +1,6 @@
+- name: install gcloud
+  hosts: all
+  become: true
+
+  roles:
+  - google.cloud.stackdriver_monitoring
