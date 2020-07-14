@@ -1,0 +1,10 @@
+- name: test 
+  hosts: localhost
+  connection: local
+  gather_facts: false
+
+  roles:
+  - ishwarkanse.testcollection.myrole
+
+  tasks:
+  - newswangerd.collection_demo.real_facts:
