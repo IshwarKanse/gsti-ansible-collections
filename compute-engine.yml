@@ -4,9 +4,9 @@
   gather_facts: false
 
   vars:
-    gcp_project: "ansible-collections"
-    gcp_cred_kind: "serviceaccount"
-    gcp_cred_file: "google.json" 
+#    gcp_project: "ansible-collections"
+     gcp_cred_kind: "serviceaccount"
+#    gcp_cred_file: "google.json" 
 
 
   tasks:
