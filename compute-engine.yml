@@ -49,6 +49,8 @@
       - ip_protocol: tcp
         ports:
         - '22'
+        - '80'
+        - '443'
       target_tags:
       - dev
       source_ranges:
