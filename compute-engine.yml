@@ -6,8 +6,8 @@
   vars:
 #    gcp_project: "ansible-collections"
      gcp_cred_kind: "serviceaccount"
-     gcp_region: "asia-south1"
-     gcp_zone: "asia-south1-a"
+     gcp_region: "asia-southeast1"
+     gcp_zone: "asia-southeast1-a"
 #    gcp_cred_file: "google.json" 
 
 
