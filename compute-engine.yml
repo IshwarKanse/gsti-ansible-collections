@@ -7,7 +7,7 @@
 #    gcp_project: "ansible-collections"
      gcp_cred_kind: "serviceaccount"
      gcp_region: "asia-south1"
-     gcp_zone: "asia-south-1-a"
+     gcp_zone: "asia-south1-a"
 #    gcp_cred_file: "google.json" 
 
 
